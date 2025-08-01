@@ -1,0 +1,1 @@
+If you have suggestions, observations, or recommendations about my work, I would love to read them! You can leave your comments below or open an [Issue](https://github.com/facundovarela99/Clones-of-famous-websites/issues) 👉 Feel free to open an Issue to share your thoughts.
