@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+header{
+    height: 8vh;
+    background-color: white;
+}
+
+.mainLogoAnchor{
+    width: 100% !important;
+}
+
+.mainLogo{
+    width: 120px;
+}
+
+.nav-list{
+    list-style: none;
+    margin: 0;
+}
+
+
+.QWUlist{
+    list-style: none;
+}
+
+.QWUlistImg{
+    width: 24px;
+}
+
+.navListAnchor {
+    color: #171a20;
+    text-decoration: none;
+    padding: 5px;
+    outline: none;
+    border: 2px solid transparent;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    font-size: 0.9rem;
+}
+
+.navListAnchor:hover {
+    background-color: #f2f2f2;
+}
+
+.FirstCarouselSection {
+    height: 75vh !important;
+    position: relative;
+}
+.rightArrow{
+    transform: rotate(180deg);
+}
+
+/* AGREGADOS PARA RESPETAR EL ALTO DE LA PRIMER SECCION*/
+
+#carouselExampleFade {
+    height: 100%;
+}
+
+.carousel-inner,
+.carousel-item {
+    height: 100%;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+}
+
+/* AGREGADOS PARA RESPETAR EL ALTO DE LA PRIMER SECCION*/
